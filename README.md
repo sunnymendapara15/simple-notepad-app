@@ -1,2 +1,3 @@
-# simple-notepad-app
-A simple Notepad app using React
+# Simple Notepad App
+
+This is a simple Notepad app built using React.
